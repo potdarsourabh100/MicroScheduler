@@ -17,7 +17,7 @@ With its clean platform abstraction layer, Microscheduler can run on bare-metal 
 ⚡ Runs on POSIX (Linux/macOS) and easily portable to any MCU
 
 ## 📂 Project Structure
-
+```bash
 microscheduler/
  ├── include/           # Public headers
  ├── src/               # Core implementation
@@ -29,7 +29,7 @@ microscheduler/
  ├── LICENSE
  ├── README.md
  └── CHANGELOG.md
- 
+ ```
 ## 🚀 Getting Started
 Porting to an MCU
 
